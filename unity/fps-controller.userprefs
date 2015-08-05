@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\TrainControl.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TrainControl.cs" Line="54" Column="2" />
+      <File FileName="Assets\Scripts\Main.cs" Line="10" Column="1" />
+      <File FileName="Assets\Scripts\InteractiveObject.cs" Line="35" Column="2" />
+      <File FileName="Assets\Plugins\Demigiant\DOTween\Examples\Basics.cs" Line="22" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
